@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(96, 192, 224);
+}
+
+#mapdiv{
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    display: none;
+}
+
+.states path {
+    fill: #f1ebaf;
+    stroke: #336351;
+    stroke-width:4px;
+    transition: fill 0.6s;
+}
+
+.states :hover {
+    fill:rgb(86, 182, 91);
+}
+
+#info {
+    margin: auto;
+    padding: 50px;
+    width: 50%;
+}
+
+#Div1{
+    padding: 20px;
+    margin: 0;
+}
+
+.left {
+    width:50% !important;
+}
+
+#texts {
+    font-size: 40px;
+    margin:auto;
+    width: 100%;
+}
+
+.srilangka path{
+    fill:#41a1d8;
+    fill-opacity:1;
+    stroke:#bb2626;
+    stroke-opacity:1;
+    transition: fill 0.6s;
+}
+
+.srilangka path:hover {
+    fill:rgb(86, 182, 91);
+}
+
+.selected {
+    fill:rgb(74, 166, 219) !important;
+}
+
+#logo {
+    max-width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}

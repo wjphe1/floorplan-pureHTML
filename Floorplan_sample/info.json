@@ -1,0 +1,128 @@
+{
+    "states": [{
+            "name": "Kalutara",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Kalutara or Kalutota is a major city in Kalutara District, Western Province, Sri Lanka. It is also the administrative capital of Kalutara District. It is located approximately 40 km south of the capital Colombo."
+        },
+        {
+            "name": "Matale",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Kandy",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Nuwara Eliya",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Ampara",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Batticaloa",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Polonnaruwa",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Trincomalee",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Anuradhapura",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Vavuniya",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Mannar",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Mullaitivu",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Jaffna",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Kilinochchi",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Kurunegala",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Puttalam",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Ratnapura",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Galle",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Hambanota",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Matara",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Badulla",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Moneragala",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Kegalle",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Colombo",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        },
+        {
+            "name": "Gampaha",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png",
+            "desc": "Matale often written as Mathale, is a large regional city located at the heart of the island lies in a broad, fertile valley at an elevation of 364 m above sea level."
+        }
+    ]
+}
